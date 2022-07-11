@@ -56,3 +56,16 @@ li:nth-child(5){grid-area: e; width: 3fr;}
     width: 960px;
     margin: 0 auto;
 }
+
+a:hover{
+    color: #3c3733;
+}
+
+.text_bg_color{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border-radius: 0px;
+}
