@@ -1,0 +1,40 @@
+/*클래스*/
+.test {
+    color:red;
+    display:inline-block;
+    width: 320px;
+    height: 320px;
+    border-radius: 0%;
+    transition: border-radius 0.2s;
+    font-size: 32px;
+    background-color: antiquewhite;
+}
+
+/*마우스를 올렸을때*/
+.test:hover{
+    color:blueviolet;
+    border-radius: 50%;
+}
+
+/*태그
+button {
+    
+}*/
+
+/*
+css : flex, grid - 이미지 가로 배치
+웬만한 애니메이션은 css로 처리
+정 안되는건 js로 처리
+
+
+*/
+@keyframes textColorAnimation{
+    0% {color : blue;}
+    30% {color : green;}
+    100% {color : red;}
+}
+span {
+    animation-name: textColorAnimation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
