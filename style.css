@@ -1,40 +1,39 @@
-/*클래스*/
-.test {
-    color:red;
-    display:inline-block;
-    width: 320px;
-    height: 320px;
-    border-radius: 0%;
-    transition: border-radius 0.2s;
-    font-size: 32px;
-    background-color: antiquewhite;
-}
-
-/*마우스를 올렸을때*/
-.test:hover{
-    color:blueviolet;
-    border-radius: 50%;
-}
-
-/*태그
-button {
-    
-}*/
-
 /*
 css : flex, grid - 이미지 가로 배치
 웬만한 애니메이션은 css로 처리
 정 안되는건 js로 처리
-
-
 */
-@keyframes textColorAnimation{
-    0% {color : blue;}
-    30% {color : green;}
-    100% {color : red;}
+*{box-sizing: border-box;}
+body{margin: 0px;}
+
+ul{
+    padding: 0;
+    list-style-type: none;
+    border: 5px solid teal;
 }
-span {
-    animation-name: textColorAnimation;
-    animation-duration: 5s;
-    animation-iteration-count: infinite;
+
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    border: 5px solid tomato;
+    border-radius: 8px;
 }
+
+.container {
+    display: grid;
+    
+    grid-column: 500px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-areas: 
+    "a b b"
+    "a c d"
+    "e e e";
+}
+
+li:nth-child(1){grid-area: a;}
+li:nth-child(2){grid-area: b;}
+li:nth-child(3){grid-area: c;}
+li:nth-child(4){grid-area: d;}
+li:nth-child(5){grid-area: e;}
