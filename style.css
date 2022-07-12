@@ -11,7 +11,6 @@ body{margin: 300px;}
 ul{
     padding: 0;
     list-style-type: none;
-    border: 5px solid teal;
     height:fit-content;
     background-color: white;
 }
@@ -21,13 +20,12 @@ li{
     justify-content: center;
     align-items: center;
     background-color : white;
-    border: 5px solid tomato;
-    border-radius: 8px;
+    border: 30px solid white;
 }
 
 .container {
     display: grid;
-    
+    padding: 15px;
     grid-column: 500px;
     grid-template-columns: repeat(3, 1fr);
     grid-template-areas: 
@@ -36,10 +34,10 @@ li{
     "e e e";
 }
 
-li:nth-child(1){grid-area: a; width:1fr;}
-li:nth-child(2){grid-area: b; width: 2fr;}
-li:nth-child(3){grid-area: c; width: 1fr;}
-li:nth-child(4){grid-area: d; width: 1fr;}
+li:nth-child(1){grid-area: a; width: 610px; height: 662px;}
+li:nth-child(2){grid-area: b; width: 2fr; height: 404px;}
+li:nth-child(3){grid-area: c; width: 1fr; height: 230px;}
+li:nth-child(4){grid-area: d; width: 1fr; height: 230px;}
 li:nth-child(5){grid-area: e; width: 3fr;}
 
 .content {
@@ -53,8 +51,9 @@ li:nth-child(5){grid-area: e; width: 3fr;}
 }
 
 .layout {
-    width: 960px;
-    margin: 0 auto;
+    width: 1280px;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
 a:hover{
