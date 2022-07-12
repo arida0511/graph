@@ -20,12 +20,12 @@ li{
     justify-content: center;
     align-items: center;
     background-color : white;
-    border: 30px solid white;
+    border: 10px solid white;
 }
 
 .container {
     display: grid;
-    padding: 15px;
+    
     grid-column: 500px;
     grid-template-columns: repeat(3, 1fr);
     grid-template-areas: 
@@ -35,7 +35,7 @@ li{
 }
 
 li:nth-child(1){grid-area: a; width: 610px; height: 662px;}
-li:nth-child(2){grid-area: b; width: 2fr; height: 404px;}
+li:nth-child(2){grid-area: b; width: 2fr; height: 400px;}
 li:nth-child(3){grid-area: c; width: 1fr; height: 230px;}
 li:nth-child(4){grid-area: d; width: 1fr; height: 230px;}
 li:nth-child(5){grid-area: e; width: 3fr;}
