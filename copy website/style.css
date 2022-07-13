@@ -1,0 +1,40 @@
+#row {float:left;}
+#no-row {clear:left;}
+#insta-size {height: 240px; width: 240px;}
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0 auto;
+}
+.sec-dvs-line{
+    width: 1250px;
+    height: 32px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.dvs-line{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.grid-box{
+    width: 1300px;
+    height: 775px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid salmon;
+}
+.insta-grid{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid black; 
+}
+.insta-pic{
+    padding:5px;
+    border: 1px solid lightseagreen;
+    transition: all .3s linear;
+}
+.insta-pic:hover{
+    opacity: 0.5;
+}
