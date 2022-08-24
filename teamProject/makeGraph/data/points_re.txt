@@ -1,0 +1,109 @@
+id	group	size
+11720	1	0.3
+13775	1	0.3
+18164	1	0.3
+19462	1	0.3
+24453	1	0.3
+25293	1	0.3
+40979	1	0.3
+47906	1	0.3
+53366	1	0.3
+58749	1	0.3
+59573	1	0.3
+60063	1	0.3
+61311	1	0.3
+67630	1	0.3
+68633	1	0.3
+72342	1	0.3
+80044	1	0.3
+80240	1	0.3
+84399	1	0.3
+101169	1	0.3
+101983	1	0.3
+129625	1	0.3
+222689	1	0.3
+300501	1	0.3
+305338	1	0.3
+333712	1	0.3
+345274	1	0.3
+407576	1	0.3
+459753	1	0.3
+557055	1	0.3
+600983	1	0.3
+602631	1	0.3
+683371	1	0.3
+708034	1	0.3
+810699	1	0.3
+875119	1	0.3
+889016	1	0.3
+926794	1	0.3
+944929	1	0.3
+946858	1	0.3
+958774	1	0.3
+1020787	1	0.3
+Sweet Home 3D [Download]	2	0.5
+DreamPlan Home Design Software for Mac - Home Planning and Landscape Design [Download]	2	0.5
+Microsoft Office 365 Personal 1yr Subscription	2	0.5
+Avast Free Antivirus 2015 [Download]	2	0.5
+LibreOffice v4.3	2	0.5
+Driver Booster FREE [Download]	2	0.5
+"DrawPad Graphic Design Editor for Creating, Painting and Editing Vector Images [Download]"	2	0.5
+Amazon Drive Desktop [PC]	2	0.5
+CCleaner Free [Download]	2	0.5
+Apache OpenOffice 3.4.1	2	0.5
+McAfee 2015 Antivirus Plus 1 PC	2	0.5
+Office Mac Home and Student 2011 - 1PC/1User [Download]	2	0.5
+Norton Security	2	0.5
+Intuit Quicken Home & Business 2015	2	0.5
+McAfee 2015 Total Protection 1 PC	2	0.5
+WordPerfect Office X7 Home and Student	2	0.5
+McAfee 2015 Total Protection 3 PC (3-Users)	2	0.5
+Quicken Deluxe Personal Finance & Budgeting Software 2015	2	0.5
+TurboTax Deluxe Fed + Efile + State	2	0.5
+"Free Diagram & Flowchart Software for Drawing, Creation & Visualization [Download]"	2	0.5
+"Excel Budget Software and Checkbook Register Spreadsheet Template - Free Trial Version - Requires Microsoft Excel 2007, Excel 2010, Excel 2013 or higher [Download]"	2	0.5
+Free Point of Sales Software for Mac [Download]	2	0.5
+Adobe Reader XI	2	0.5
+TinyRadio Desktop [Download]	2	0.5
+Samplitude Music Studio 2014 - Free Trial [Download]	2	0.5
+Xara Photo & Graphic Designer 9 - Free Trial [Download]	2	0.5
+Crescendo Music Notation Software for Mac for Music Score Writing and Composing [Download]	2	0.5
+Remotix [Download]	2	0.5
+Astro123 - generates and interprets your natal horoscope [Download]	2	0.5
+Individual Software Anytime Organizer Deluxe 14	2	0.5
+AquaSoft SlideShow for YouTube [Download]	2	0.5
+Ad-Aware Free Antivirus+ [Download]	2	0.5
+"Warp Speed PC Tune-up Software - Registry Cleaner, PC Repair and Cleaning Tools [Download]"	2	0.5
+Microsoft Office Home and Student 2013 (1PC/1User) [Download]	2	0.5
+"McAfee LiveSafe 1 Yr, Unlimited Devices 2015"	2	0.5
+"TurboTax Deluxe Fed, Efile and State 2013"	2	0.5
+Intuit Quicken for Mac 2015	2	0.5
+Playstation Network Card	3	0.5
+LEGO: Marvel	3	0.5
+Battlefield Hardline	3	0.5
+Grand Theft Auto V	3	0.5
+London 2012 [Download]	3	0.5
+Playstation Plus Subscription	3	0.5
+Xbox Live Subscription	3	0.5
+Bioshock Dual Pack [Online Game Code]	3	0.5
+The Crazy Action Pack [Download]	3	0.5
+Sega Fun Pack [Download]	3	0.5
+Darksiders Franchise Pack [Download]	3	0.5
+Xbox 360 Live Points Card	3	0.5
+Saints Row IV: GAT	3	0.5
+Xbox Live 3 month Gold Membership + 1 bonus month [Online Game Code]	3	0.5
+Assassin's Creed III: Season Pass	3	0.5
+Assassin's Creed IV Black Flag Season Pass [Online Game Code]	3	0.5
+Assassin's Creed Liberation HD [Download]	3	0.5
+Borderlands 2	3	0.5
+Killzone: Mercenary	3	0.5
+Batman Arkham Origins	3	0.5
+BioShock Infinite	3	0.5
+Call of Duty: Ghosts	3	0.5
+FIFA 14 - PS3 [Digital Code]	3	0.5
+Assassin's Creed IV Black Flag - PS3 [Digital Code]	3	0.5
+Ultimate Doom [Online Game Code]	3	0.5
+Envelope Printer Lite [Download]	3	0.5
+Marvel Heroes	3	0.5
+Space Shooter 3D [Download]	3	0.5
+Killzone Shadow Fall Digital Bundle: Game + Season Pass - PS4 [Digital Code]	3	0.5

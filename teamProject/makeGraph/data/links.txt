@@ -1,0 +1,119 @@
+customer_id	review_id	product_id	product_title	product_category
+11720	R1BK5TO4W47WOU	B00NLVKPDM	Sweet Home 3D [Download]	Digital_Software
+11720	R2VGCVX93QGX26	B00OSCLQ1S	DreamPlan Home Design Software for Mac - Home Planning and Landscape Design [Download]	Digital_Software
+13775	RU6HPKLOMOK25	B00B1TEIRU	Microsoft Office 365 Personal 1yr Subscription	Digital_Software
+13775	RL1NEE0BKX8FW	B00H9A60O4	Avast Free Antivirus 2015 [Download]	Digital_Software
+129625	ROBOOZXO52S9H	B00H9A60O4	Avast Free Antivirus 2015 [Download]	Digital_Software
+129625	R2BT71OH5WHUC0	B00PT6GQY4	LibreOffice v4.3	Digital_Software
+222689	R248PEWVDNO5HJ	B00KQV8RNK	Driver Booster FREE [Download]	Digital_Software
+222689	R1I2NFL53EZ274	B00OSE2638	DrawPad Graphic Design Editor for Creating, Painting and Editing Vector Images [Download]	Digital_Software
+222689	REG0JPLS1BDHS	B00P31G9PQ	Amazon Drive Desktop [PC]	Digital_Software
+222689	R1ILHBBE5VYD8K	B00U7LCE6A	CCleaner Free [Download]	Digital_Software
+300501	R2W8VGMNGVO7QL	B008XAXAC4	Apache OpenOffice 3.4.1	Digital_Software
+300501	R3UCQSI6820HAI	B00H9A60O4	Avast Free Antivirus 2015 [Download]	Digital_Software
+305338	R1S0AC1TMN7LBV	B00H9A60O4	Avast Free Antivirus 2015 [Download]	Digital_Software
+305338	R1P5K9MSOV2W5I	B00N9HI86Y	McAfee 2015 Antivirus Plus 1 PC	Digital_Software
+333712	R2YO95AS5Y4YZA	B0064PFB9U	Office Mac Home and Student 2011 - 1PC/1User [Download]	Digital_Software
+333712	RGQOJT454FPV8	B00MHZ6Z64	Norton Security	Digital_Software
+345274	R11U9TG5XXDT88	B00H9A60O4	Avast Free Antivirus 2015 [Download]	Digital_Software
+345274	R30W2GV0UCDBRG	B00M9GTEPA	Intuit Quicken Home & Business 2015	Digital_Software
+345274	R1C3DW7FW8E2DC	B00N9MCPNG	McAfee 2015 Total Protection 1 PC	Digital_Software
+407576	RKY7JY0CTMYNH	B00JPRUDFQ	WordPerfect Office X7 Home and Student	Digital_Software
+407576	R3Q1DDINHW4XPR	B00N9MUV96	McAfee 2015 Total Protection 3 PC (3-Users)	Digital_Software
+459753	R24UO548WYWHB7	B00M9GTHS4	Quicken Deluxe Personal Finance & Budgeting Software 2015	Digital_Software
+459753	R3P1O7750BWE6B	B00NG7JVSQ	TurboTax Deluxe Fed + Efile + State	Digital_Software
+557055	RICGZMO5G9L24	B00OSCLQ1S	DreamPlan Home Design Software for Mac - Home Planning and Landscape Design [Download]	Digital_Software
+557055	RUHZ64YXN8S97	B00OSDY8PI	Free Diagram & Flowchart Software for Drawing, Creation & Visualization [Download]	Digital_Software
+557055	R2BA2TP1ELMJR9	B00OSE2638	DrawPad Graphic Design Editor for Creating, Painting and Editing Vector Images [Download]	Digital_Software
+557055	RWNG3494M7D2E	B00OVT6VKY	Excel Budget Software and Checkbook Register Spreadsheet Template - Free Trial Version - Requires Microsoft Excel 2007, Excel 2010, Excel 2013 or higher [Download]	Digital_Software
+557055	R35WI4F97CS198	B00P04H7GG	Free Point of Sales Software for Mac [Download]	Digital_Software
+557055	R3I84L1CXXIOZ5	B00PT6GQY4	LibreOffice v4.3	Digital_Software
+557055	R2LXSR6QZQOD4H	B00U7LCE6A	CCleaner Free [Download]	Digital_Software
+600983	RWUE3924LCR02	B00H9A60O4	Avast Free Antivirus 2015 [Download]	Digital_Software
+600983	R2J5EHUNK4HLHV	B00TRAR53E	Adobe Reader XI	Digital_Software
+602631	R1D5WSXB4CYWKX	B00H9A60O4	Avast Free Antivirus 2015 [Download]	Digital_Software
+602631	R1PTU0OZ9SV0G3	B00U7LCE6A	CCleaner Free [Download]	Digital_Software
+683371	RJ4XZOVXFI5H6	B00IZLX6AC	TinyRadio Desktop [Download]	Digital_Software
+683371	R7UDKCMQB9KNH	B00KMEC9VC	Samplitude Music Studio 2014 - Free Trial [Download]	Digital_Software
+683371	RA3Y6OPLEVCEY	B00KMECBVA	Xara Photo & Graphic Designer 9 - Free Trial [Download]	Digital_Software
+683371	R1QNFVB2IIW623	B00OSCLQ1S	DreamPlan Home Design Software for Mac - Home Planning and Landscape Design [Download]	Digital_Software
+683371	R1V81W4TA1IOB0	B00OYB6DWA	Crescendo Music Notation Software for Mac for Music Score Writing and Composing [Download]	Digital_Software
+683371	R3CU01S1UKIX97	B00OZHU2IE	Remotix [Download]	Digital_Software
+683371	R1L2KAY37G8M1V	B00P31G9PQ	Amazon Drive Desktop [PC]	Digital_Software
+683371	R2DC7CLOF9E28T	B00PV0BHOC	Astro123 - generates and interprets your natal horoscope [Download]	Digital_Software
+708034	R19HO85CZWMH6P	B005LMOB70	Individual Software Anytime Organizer Deluxe 14	Digital_Software
+708034	R1R42C8MZCBJT8	B00OSCLQ1S	DreamPlan Home Design Software for Mac - Home Planning and Landscape Design [Download]	Digital_Software
+708034	R3MCPSKUVATXLB	B00U7LCE6A	CCleaner Free [Download]	Digital_Software
+810699	R3FMGVBSZ5MHPP	B00H9F7JEY	AquaSoft SlideShow for YouTube [Download]	Digital_Software
+810699	RQLRRMMODKUGR	B00NLVKPDM	Sweet Home 3D [Download]	Digital_Software
+875119	R1A1CZRH6R60DM	B0064PFB9U	Office Mac Home and Student 2011 - 1PC/1User [Download]	Digital_Software
+875119	R10TIIX1IBRX4E	B00PT6GZ2W	LibreOffice v4.3	Digital_Software
+889016	R3N4HOCWKVGIOA	B00H9A60O4	Avast Free Antivirus 2015 [Download]	Digital_Software
+889016	R2HTD0URLO4OHG	B00OTX1HBU	Ad-Aware Free Antivirus+ [Download]	Digital_Software
+889016	R1LXV9J0NEHG2N	B00P04JVCO	Warp Speed PC Tune-up Software - Registry Cleaner, PC Repair and Cleaning Tools [Download]	Digital_Software
+926794	RVCODEUNSVQY4	B00B1TGUMG	Microsoft Office Home and Student 2013 (1PC/1User) [Download]	Digital_Software
+926794	RGQTNLXPPTIC6	B00MHZ6Z64	Norton Security	Digital_Software
+944929	R214H634N3S1V6	B00N9MUV96	McAfee 2015 Total Protection 3 PC (3-Users)	Digital_Software
+944929	RSKABE7RJKPE3	B00NC0PXLQ	McAfee LiveSafe 1 Yr, Unlimited Devices 2015	Digital_Software
+946858	R3FCU9L4KYWAPN	B00M9GTHS4	Quicken Deluxe Personal Finance & Budgeting Software 2015	Digital_Software
+946858	R21LMEUWXW29VA	B00OVT6VKY	Excel Budget Software and Checkbook Register Spreadsheet Template - Free Trial Version - Requires Microsoft Excel 2007, Excel 2010, Excel 2013 or higher [Download]	Digital_Software
+958774	R3AJNUN9ELBFBE	B00B1TEIRU	Microsoft Office 365 Personal 1yr Subscription	Digital_Software
+958774	RH2UOXZJNN46T	B00FFINOWS	TurboTax Deluxe Fed, Efile and State 2013	Digital_Software
+1020787	RP5V72DN3L7MN	B0064PFB9U	Office Mac Home and Student 2011 - 1PC/1User [Download]	Digital_Software
+1020787	R300IQ5GJ11WK7	B00M76N6MO	Intuit Quicken for Mac 2015	Digital_Software
+18164	R28C0IPJ2MJ5V5	B004RMK4BC	Playstation Network Card	Digital_Video_Games
+18164	R3UZCWSX19K6DV	B00GGUUQB6	LEGO: Marvel	Digital_Video_Games
+19462	R310L0TGNF7MIU	B00KSLNI82	Battlefield Hardline	Digital_Video_Games
+19462	R1SDU06R9JSD0W	B00KXAGTV6	Grand Theft Auto V	Digital_Video_Games
+24453	R1ZYOF4C065IGR	B008MZNRNW	London 2012 [Download]	Digital_Video_Games
+24453	R210H6UNTAUMHU	B00FZ03PYS	LEGO: Marvel	Digital_Video_Games
+25293	R3M4SOF6ZHBFUO	B004RMK4BC	Playstation Network Card	Digital_Video_Games
+25293	R2ZT8HOHSCWX65	B004RMK57U	Playstation Plus Subscription	Digital_Video_Games
+40979	R1TR3RH0SCJUUH	B004RMK5QG	Playstation Plus Subscription	Digital_Video_Games
+40979	R2BJJ1ZUHR4IWD	B004VSTQ2A	Xbox Live Subscription	Digital_Video_Games
+47906	R27AKPHMU4J6PB	B004RMK4BC	Playstation Network Card	Digital_Video_Games
+47906	RCIZT3OH9YYD4	B004RMK5QG	Playstation Plus Subscription	Digital_Video_Games
+47906	R3IO1YFSOLP39E	B0083W649I	Bioshock Dual Pack [Online Game Code]	Digital_Video_Games
+47906	R2MVS95J2677DU	B0091T6LFE	The Crazy Action Pack [Download]	Digital_Video_Games
+47906	R190XWB3IVQ9T4	B00CPBZDY0	Sega Fun Pack [Download]	Digital_Video_Games
+53366	R3N71JDL3TZBDZ	B0091T6LFE	The Crazy Action Pack [Download]	Digital_Video_Games
+53366	R3EKNB44J8G2NA	B00APOVDDY	Darksiders Franchise Pack [Download]	Digital_Video_Games
+58749	R1LLUPQ6J3Q76X	B0083W649I	Bioshock Dual Pack [Online Game Code]	Digital_Video_Games
+59573	R3IR8R3F2MMNL	B004RMK4P8	Playstation Network Card	Digital_Video_Games
+59573	RKHJXS0G4NBJV	B004RMK57U	Playstation Plus Subscription	Digital_Video_Games
+60063	R2MYH1XCLBOQD1	B001V7QIDY	Xbox 360 Live Points Card	Digital_Video_Games
+60063	R1X5VW8SREWF7R	B004VSTQ2A	Xbox Live Subscription	Digital_Video_Games
+61311	RP3LPU5RT4YPX	B004RMK4BC	Playstation Network Card	Digital_Video_Games
+61311	R24ZLYEGOWH6GO	B004RMK5QG	Playstation Plus Subscription	Digital_Video_Games
+67630	R6ODFDR194HXX	B004RMK57U	Playstation Plus Subscription	Digital_Video_Games
+67630	R1EZJ3GWYL18WZ	B00GAC1D2G	Playstation Network Card	Digital_Video_Games
+68633	R3567M8FN75WRC	B004RMK4P8	Playstation Network Card	Digital_Video_Games
+68633	RPV4PBX5HCJGU	B004RMK5QG	Playstation Plus Subscription	Digital_Video_Games
+72342	R1TVMQM1JMLLC7	B004RMK4BC	Playstation Network Card	Digital_Video_Games
+72342	R3SMADAD41I9GM	B00OPKI32I	Saints Row IV: GAT	Digital_Video_Games
+80044	R24XPYABZYWKCY	B004VSTQ2A	Xbox Live Subscription	Digital_Video_Games
+80044	R37Q5JTL53M2BM	B00723NQO0	Xbox Live 3 month Gold Membership + 1 bonus month [Online Game Code]	Digital_Video_Games
+80240	RFDVBCME33CDP	B009XIHR5Q	Assassin's Creed III: Season Pass	Digital_Video_Games
+80240	R2FP3HNMULJ5B8	B00GP10VNE	Assassin's Creed IV Black Flag Season Pass [Online Game Code]	Digital_Video_Games
+80240	RTJ3E6J1I2V6H	B00H3SGII0	Assassin's Creed Liberation HD [Download]	Digital_Video_Games
+80240	R3KQ93E96FNY2K	B00KXAGTV6	Grand Theft Auto V	Digital_Video_Games
+84399	R2ZXR8JRV7NB73	B004RMK4BC	Playstation Network Card	Digital_Video_Games
+84399	R3TWONFKB9WOZD	B00GGUWHFO	Grand Theft Auto V	Digital_Video_Games
+101169	R1D6TLAD62AHXY	B004RMK4BC	Playstation Network Card	Digital_Video_Games
+101169	R1DZJL9DPUKFGI	B00GGUPSKU	Borderlands 2	Digital_Video_Games
+101169	R3GKFWELQ42R4I	B00GGURCU4	Killzone: Mercenary	Digital_Video_Games
+101169	R2N9Q2LM9UHBSI	B00GGUSZVY	Batman Arkham Origins	Digital_Video_Games
+101169	R1DO1OF3UQ19D2	B00GGUT7E8	BioShock Infinite	Digital_Video_Games
+101169	R266Y1PUWD1YAE	B00GGUVS5Y	Call of Duty: Ghosts	Digital_Video_Games
+101169	R2B294259005JG	B00GGUW312	FIFA 14 - PS3 [Digital Code]	Digital_Video_Games
+101169	RSDIDKVX13QS4	B00GGUWHFO	Grand Theft Auto V	Digital_Video_Games
+101169	R3SCH5EDZDRXEA	B00GGUWLE6	Assassin's Creed IV Black Flag - PS3 [Digital Code]	Digital_Video_Games
+101983	R2APU4DBLN3KH6	B004RMK4BC	Playstation Network Card	Digital_Video_Games
+345274	RAGNPCT1UQXAP	B004VSTQ2A	Xbox Live Subscription	Digital_Video_Games
+557055	RFRD817765Q3E	B00GXHJKR8	Ultimate Doom [Online Game Code]	Digital_Video_Games
+557055	R1VC0MTXLFAZ36	B00RKZKFUI	Envelope Printer Lite [Download]	Digital_Video_Games
+708034	R11S17FBZZPDD5	B00R2478C0	Marvel Heroes	Digital_Video_Games
+708034	RFBT96HOHSXLD	B00KKRD8PC	Space Shooter 3D [Download]	Digital_Video_Games
+944929	R2KYVMP7AVH0OB	B004RMK57U	Playstation Plus Subscription	Digital_Video_Games
+944929	R2X00N0ULUZRTJ	B00K59HKIQ	Playstation Network Card	Digital_Video_Games
+944929	R37TAN8U7676Z5	B00GS6A5A0	Killzone Shadow Fall Digital Bundle: Game + Season Pass - PS4 [Digital Code]	Digital_Video_Games

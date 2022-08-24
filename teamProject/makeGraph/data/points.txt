@@ -1,0 +1,109 @@
+id	group	size
+11720	customer	0.3
+13775	customer	0.3
+18164	customer	0.3
+19462	customer	0.3
+24453	customer	0.3
+25293	customer	0.3
+40979	customer	0.3
+47906	customer	0.3
+53366	customer	0.3
+58749	customer	0.3
+59573	customer	0.3
+60063	customer	0.3
+61311	customer	0.3
+67630	customer	0.3
+68633	customer	0.3
+72342	customer	0.3
+80044	customer	0.3
+80240	customer	0.3
+84399	customer	0.3
+101169	customer	0.3
+101983	customer	0.3
+129625	customer	0.3
+222689	customer	0.3
+300501	customer	0.3
+305338	customer	0.3
+333712	customer	0.3
+345274	customer	0.3
+407576	customer	0.3
+459753	customer	0.3
+557055	customer	0.3
+600983	customer	0.3
+602631	customer	0.3
+683371	customer	0.3
+708034	customer	0.3
+810699	customer	0.3
+875119	customer	0.3
+889016	customer	0.3
+926794	customer	0.3
+944929	customer	0.3
+946858	customer	0.3
+958774	customer	0.3
+1020787	customer	0.3
+Sweet Home 3D [Download]	SW	0.5
+DreamPlan Home Design Software for Mac - Home Planning and Landscape Design [Download]	SW	0.5
+Microsoft Office 365 Personal 1yr Subscription	SW	0.5
+Avast Free Antivirus 2015 [Download]	SW	0.5
+LibreOffice v4.3	SW	0.5
+Driver Booster FREE [Download]	SW	0.5
+DrawPad Graphic Design Editor for Creating, Painting and Editing Vector Images [Download]	SW	0.5
+Amazon Drive Desktop [PC]	SW	0.5
+CCleaner Free [Download]	SW	0.5
+Apache OpenOffice 3.4.1	SW	0.5
+McAfee 2015 Antivirus Plus 1 PC	SW	0.5
+Office Mac Home and Student 2011 - 1PC/1User [Download]	SW	0.5
+Norton Security	SW	0.5
+Intuit Quicken Home & Business 2015	SW	0.5
+McAfee 2015 Total Protection 1 PC	SW	0.5
+WordPerfect Office X7 Home and Student	SW	0.5
+McAfee 2015 Total Protection 3 PC (3-Users)	SW	0.5
+Quicken Deluxe Personal Finance & Budgeting Software 2015	SW	0.5
+TurboTax Deluxe Fed + Efile + State	SW	0.5
+Free Diagram & Flowchart Software for Drawing, Creation & Visualization [Download]	SW	0.5
+Excel Budget Software and Checkbook Register Spreadsheet Template - Free Trial Version - Requires Microsoft Excel 2007, Excel 2010, Excel 2013 or higher [Download]	SW	0.5
+Free Point of Sales Software for Mac [Download]	SW	0.5
+Adobe Reader XI	SW	0.5
+TinyRadio Desktop [Download]	SW	0.5
+Samplitude Music Studio 2014 - Free Trial [Download]	SW	0.5
+Xara Photo & Graphic Designer 9 - Free Trial [Download]	SW	0.5
+Crescendo Music Notation Software for Mac for Music Score Writing and Composing [Download]	SW	0.5
+Remotix [Download]	SW	0.5
+Astro123 - generates and interprets your natal horoscope [Download]	SW	0.5
+Individual Software Anytime Organizer Deluxe 14	SW	0.5
+AquaSoft SlideShow for YouTube [Download]	SW	0.5
+Ad-Aware Free Antivirus+ [Download]	SW	0.5
+Warp Speed PC Tune-up Software - Registry Cleaner, PC Repair and Cleaning Tools [Download]	SW	0.5
+Microsoft Office Home and Student 2013 (1PC/1User) [Download]	SW	0.5
+McAfee LiveSafe 1 Yr, Unlimited Devices 2015	SW	0.5
+TurboTax Deluxe Fed, Efile and State 2013	SW	0.5
+Intuit Quicken for Mac 2015	SW	0.5
+Playstation Network Card	Game	0.5
+LEGO: Marvel	Game	0.5
+Battlefield Hardline	Game	0.5
+Grand Theft Auto V	Game	0.5
+London 2012 [Download]	Game	0.5
+Playstation Plus Subscription	Game	0.5
+Xbox Live Subscription	Game	0.5
+Bioshock Dual Pack [Online Game Code]	Game	0.5
+The Crazy Action Pack [Download]	Game	0.5
+Sega Fun Pack [Download]	Game	0.5
+Darksiders Franchise Pack [Download]	Game	0.5
+Xbox 360 Live Points Card	Game	0.5
+Saints Row IV: GAT	Game	0.5
+Xbox Live 3 month Gold Membership + 1 bonus month [Online Game Code]	Game	0.5
+Assassin's Creed III: Season Pass	Game	0.5
+Assassin's Creed IV Black Flag Season Pass [Online Game Code]	Game	0.5
+Assassin's Creed Liberation HD [Download]	Game	0.5
+Borderlands 2	Game	0.5
+Killzone: Mercenary	Game	0.5
+Batman Arkham Origins	Game	0.5
+BioShock Infinite	Game	0.5
+Call of Duty: Ghosts	Game	0.5
+FIFA 14 - PS3 [Digital Code]	Game	0.5
+Assassin's Creed IV Black Flag - PS3 [Digital Code]	Game	0.5
+Ultimate Doom [Online Game Code]	Game	0.5
+Envelope Printer Lite [Download]	Game	0.5
+Marvel Heroes	Game	0.5
+Space Shooter 3D [Download]	Game	0.5
+Killzone Shadow Fall Digital Bundle: Game + Season Pass - PS4 [Digital Code]	Game	0.5
