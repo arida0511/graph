@@ -13,7 +13,7 @@
 }
 
 </style>
-<svg width="960" height="600"></svg>
+<svg width="1280" height="1800"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -44,7 +44,7 @@ d3.json("data.json", function(error, graph) {
     .selectAll("circle")
     .data(graph.nodes)
     .enter().append("circle")
-      .attr("r", 5)
+      .attr("r", 8)
       .attr("fill", function(d) { return color(d.group); })
       .call(d3.drag()
           .on("start", dragstarted)

@@ -20,7 +20,7 @@ var json = lines
     .filter(function (eles) { return !!eles; });
 (0, fs_1.writeFileSync)("links.json", JSON.stringify(json, null, 2));
 var jj = require("./links.json");
-console.log(jj);
+//console.log();
 var data2 = (0, fs_1.readFileSync)("./points_ree.txt").toString();
 var lines2 = data2.split("\r\n");
 var headers2 = lines2[0].split("\t").map(function (header2) { return header2.trim(); });
